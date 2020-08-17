@@ -3,5 +3,15 @@ The values of Maiar and Hobbit are Sauron and Frodo respectively.  They don't sh
 The capacity of the hash table after I have hashed all the items is 8.
 I feel like it should be more because it shows I have undefined key value pairs.
 
+For the exercise WhatDoesThisDo,
+    it should console.log the values 20 and 10 respectively if it's the same case from the code I have written.
 
+Demonstrate understanding of Hash maps:
 
+First Hashmap:
+
+[22, 88, , , 4, 15, 28, 17, 59, 31, 10, ]
+
+Second Hashmap:
+
+[ 10, [28, 19], 20, 12, , 5, [15, 33], , , 17]
